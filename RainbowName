@@ -24,7 +24,7 @@ fakename.TextColor3 = Color3.new(0/top,i/top,top/top)
 wait()
 end
 for i = top,1,-1 do
-fakerank.TextColor3 = Color3.new(0/top,0/top,i/top)
+fakename.TextColor3 = Color3.new(0/top,0/top,i/top)
 wait()
 end
 end
